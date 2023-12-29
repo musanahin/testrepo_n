@@ -1,2 +1,9 @@
 commit 1 line file
 prep for 2nd commit
+<<<<<<< Updated upstream
+change 5
+change 4
+=======
+change1
+change2
+>>>>>>> Stashed changes
